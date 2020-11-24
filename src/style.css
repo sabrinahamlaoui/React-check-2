@@ -1,0 +1,15 @@
+.title {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: brown;
+  
+}
+.red {
+    border: chocolate solid;
+    text-align: center;
+}
+.place {
+    display: flex;
+    align-items: center;
+}
